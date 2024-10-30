@@ -2,4 +2,4 @@
 
 Vous pouvez démarrer avec la commande `./gradlew run`.
 
-+ d'infos sur https://unicorn.artheriom.fr/
+Compatible avec Java 17.
