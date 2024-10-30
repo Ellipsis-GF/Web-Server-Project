@@ -1,0 +1,11 @@
+GET /register
+POST /register
+GET /login
+POST /login
+GET /pokedex
+GET /exchange
+POST /exchange
+GET /newpokemon
+GET /training
+POST /training
+
